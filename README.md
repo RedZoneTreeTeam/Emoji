@@ -13,4 +13,5 @@ Languages : Python, C#, Lua
 Projects :
 - @redzone_nevermind_bot (telegram bot) | Technical Works ⚙️
 - Emoji Generator (neural network for generating emoticons) | The Project Is Temporarily Frozen 🧊
-- @Amazon_Seller_Account_Bot (telegram bot) | Awaiting Launch 🚀
+- @Amazon_Seller_Account_Bot (telegram bot) | Active ✅
+- @Anonym_Manager_Bot (telegram bot) | Active ✅
