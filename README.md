@@ -8,7 +8,7 @@ Contact me : https://t.me/pse_nhi
 
 Business offer : https://t.me/beware_the_dead
 
-Languages : Python, C#, Lua
+Languages : Python
 ---
 Projects :
 - @redzone_nevermind_bot (telegram bot) | Technical Works ⚙️
