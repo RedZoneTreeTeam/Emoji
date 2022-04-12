@@ -3,7 +3,7 @@
 **<a href="#English">English</a>**
 
 
-<h2 id="Русский">Знакомство с Dice Coin Bot</h2>
+<h2 id="Русский">Знакомство с Dice Coin Bot 🤖</h2>
 
 
 **-<a href="#Описание">Описание</a>**
@@ -40,7 +40,7 @@
 ---------
 
 
-<h2 id="English">Acquaintance with Dice Coin Bot</h2>
+<h2 id="English">Acquaintance with Dice Coin Bot 🤖</h2>
 
 
 **-<a href="#Descriptions">Descriptions</a>**
