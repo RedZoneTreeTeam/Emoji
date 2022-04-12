@@ -1,5 +1,5 @@
 **<a href="#Русский">Русский</a>**
-**<a name="English"></a>**
+**<a href="#English">English</a>**
 
 
 <h2 id="Русский">Знакомство с Dice Coin Bot</h2>
