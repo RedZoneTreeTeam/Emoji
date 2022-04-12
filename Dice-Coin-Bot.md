@@ -2,8 +2,6 @@
 <a name="English"></a>
 
 
-
-
 [Знакомство с Dice Coin Bot](#Русский)
 
 -Описание
