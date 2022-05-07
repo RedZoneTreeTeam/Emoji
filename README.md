@@ -15,3 +15,4 @@ Projects :
 - <a href="https://t.me/Anonym_Manager_Bot">@Anonym_Manager_Bot</a> (telegram bot) | Active ✅
 - <a href="https://t.me/redzone_dice_coin_bot">@redzone_dice_coin_bot</a> (telegram bot) | Active ✅
 - <a href="https://t.me/binance_exchange_rate_bot">@binance_exchange_rate_bot</a> (telegram bot) | Active ✅
+- - <a href="https://t.me/SoulStonesAirdropbot">@SoulStonesAirdropbot</a> (telegram bot) | Active ✅
